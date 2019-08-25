@@ -1,6 +1,7 @@
 # GSoC Meta Tracker: Enable multiple network interfaces for Rook storage providers
 
-This repository contains @giovanism progress and report during GSoC programs.
+This repository contains [@giovanism][giovanism] progress and report during GSoC
+programs.
 
 ## Project Abstract
 
@@ -13,5 +14,9 @@ This repository contains @giovanism progress and report during GSoC programs.
 
 # Links
 
-- [GSoc proposal](https://github.com/giovanism/gsoc-2019-rook/blob/master/archive/Enable%20multiple%20network%20interfaces%20for%20Rook%20storage%20providers.pdf)
-- [Project on GSoC website](https://summerofcode.withgoogle.com/projects/#4703411130335232)
+- [GSoc proposal][gsoc-proposal]
+- [Project on GSoC website][gsoc-project]
+
+[giovanism]: https://github.com/giovanism
+[gsoc-proposal]: https://github.com/giovanism/gsoc-2019-rook/blob/master/archive/Enable%20multiple%20network%20interfaces%20for%20Rook%20storage%20providers.pdf
+[gsoc-project]: https://summerofcode.withgoogle.com/projects/#4703411130335232
