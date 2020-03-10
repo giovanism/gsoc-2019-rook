@@ -12,6 +12,14 @@ programs.
 > manage them. Therefore, it enables more fine-grained control over storage
 > providers network access.
 
+## Notes
+
+If you are student looking for example or reference to participate in GSoC, you
+can also find awesome [repo](https://github.com/nikhita/gsoc-meta-k8s) by
+[@nikhita](https://github.com/nikhita) on her own GSoC 2018 project. A super
+definitive and complete documentation on her work as student for Kubernetes
+organization. This repo itself is highly inspired from her repo.
+
 # Links
 
 - [GSoc proposal][gsoc-proposal]
